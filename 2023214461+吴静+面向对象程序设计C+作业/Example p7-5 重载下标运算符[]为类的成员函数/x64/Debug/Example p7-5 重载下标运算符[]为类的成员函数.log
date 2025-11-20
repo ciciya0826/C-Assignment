@@ -1,0 +1,3 @@
+﻿  Example p7-5 重载下标运算符[]为类的成员函数.cpp
+D:\Desktop\2023214461+吴静+面向对象程序设计作业\Example p7-5 重载下标运算符[]为类的成员函数\Example p7-5 重载下标运算符[]为类的成员函数.cpp(13,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Example p7-5 重载下标运算符[]为类的成员函数.vcxproj -> D:\Desktop\2023214461+吴静+面向对象程序设计作业\x64\Debug\Example p7-5 重载下标运算符[]为类的成员函数.exe
