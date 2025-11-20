@@ -1,0 +1,6 @@
+﻿  My PPT.cpp
+D:\Desktop\期末大作业+吴静+2023214461\My PPT\My PPT.cpp(324,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\期末大作业+吴静+2023214461\My PPT\My PPT.cpp(325,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\期末大作业+吴静+2023214461\My PPT\My PPT.cpp(326,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Desktop\期末大作业+吴静+2023214461\My PPT\My PPT.cpp(327,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  My PPT.vcxproj -> D:\Desktop\期末大作业+吴静+2023214461\x64\Debug\My PPT.exe
